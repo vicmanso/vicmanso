@@ -1,5 +1,4 @@
-# Victoria Manso
-
+# Victoria Manso - Analista e Cientista de Dados em constante formação
 
 <div>
   <a href="https://www.linkedin.com/in/victoriamanso" target="_blank">
@@ -10,7 +9,20 @@
   </a>
 </div>
 
-## Ferramentas 
+Sou estudante da UFABC com formação multidisciplinar em Ciência e Tecnologia, Ciências de Dados e Neurociência. Me dedico a construir soluções analíticas que sejam não apenas tecnicamente sólidas, mas também úteis, humanas e compreensíveis. Busco mais que respostas numéricas — combino análise estatística, visualização clara e reflexões com impacto real.
+
+
+## 💡 Interesses
+
+- 📈 **Análise de dados educacionais** e fatores de desempenho estudantil  
+- 🧠 **Ciência de dados aplicada ao comportamento humano e decisões sociais**  
+- 🤖 **Machine Learning supervisionado**, com foco em classificação, regressão e explicabilidade  
+- 📊 **Storytelling com dados**, visualizações acessíveis e construção de indicadores interpretáveis  
+- 🚛 **Análises logísticas**, operacionais e de performance com foco em eficiência  
+- 🌍 **Projetos com valor social**, que aproximem os dados das pessoas e da tomada de decisão  
+- 📚 Pesquisa, aprendizado interdisciplinar e desenvolvimento contínuo  
+
+## Ferramentas que utilizo
 
 <div>
   <!-- Python -->
