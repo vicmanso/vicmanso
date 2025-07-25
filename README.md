@@ -40,6 +40,13 @@ Sou analista/cientista de dados em constante formação. Estudante da UFABC com 
   <!-- Jupyter -->
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
   
-  <!-- Git -->
+  <!-- Git --> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
+
+## Contato 
+
+📬 Se quiser trocar ideias, fique à vontade para me chamar no [Linkedin](https://www.linkedin.com/in/victoriamanso/)!
+
+---
+💬 **"Ciência de dados não é sobre algoritmos — é sobre pessoas, contexto e impacto."**
