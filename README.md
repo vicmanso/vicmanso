@@ -1,4 +1,4 @@
-# Victoria Manso
+⁸# Victoria Manso
 
 <div>
   <a href="https://www.linkedin.com/in/victoriamanso" target="_blank">
@@ -43,6 +43,13 @@ Sou analista/cientista de dados em constante formação. Estudante da UFABC com 
   <!-- Git --> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
+
+- **Python**: Linguagem principal para análise de dados, modelagem estatística e machine learning.
+- **SQL**: Para consultas em bases relacionais, extração de dados e estruturação de análises.
+- **Power BI**: Criação de dashboards interativos com foco em indicadores e decisões.
+- **Excel**: Apoio rápido para análises, simulações e gráficos exploratórios.
+- **Jupyter Notebook**: Combinação de código, gráficos e explicações em um único ambiente.
+- **Git**: Controle de versão e organização dos projetos com rastreabilidade.
 
 ## Contato 
 
