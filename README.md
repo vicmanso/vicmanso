@@ -1,4 +1,4 @@
-# Victoria Manso - Analista e Cientista de Dados em constante formação
+# Victoria Manso
 
 <div>
   <a href="https://www.linkedin.com/in/victoriamanso" target="_blank">
@@ -9,7 +9,7 @@
   </a>
 </div>
 
-Sou estudante da UFABC com formação multidisciplinar em Ciência e Tecnologia, Ciências de Dados e Neurociência. Me dedico a construir soluções analíticas que sejam não apenas tecnicamente sólidas, mas também úteis, humanas e compreensíveis. Busco mais que respostas numéricas — combino análise estatística, visualização clara e reflexões com impacto real.
+Sou analista/cientista de dados em constante formação. Estudante da UFABC com formação multidisciplinar em Ciência e Tecnologia, Ciências de Dados e Neurociência. Me dedico a construir soluções analíticas que sejam não apenas tecnicamente sólidas, mas também úteis, humanas e compreensíveis. Busco mais que respostas numéricas — combino análise estatística, visualização clara e reflexões com impacto real.
 
 
 ## 💡 Interesses
