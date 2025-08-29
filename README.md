@@ -1,4 +1,4 @@
-⁸# Victoria Manso
+# Victoria Manso
 
 <div>
   <a href="https://www.linkedin.com/in/victoriamanso" target="_blank">
